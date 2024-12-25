@@ -11,7 +11,7 @@ I'm a passionate software engineer with a keen interest in building scalable and
 <!-- - 👯 I’m looking to collaborate on [Open Source Project] -->
 <!-- - 🤔 I’m looking for help with [Topic or Project] -->
 <!-- - 💬 Ask me about [Technology/Skill] -->
-- 📫 How to reach me: [Email](mailto:geeth.gsm@gmail.com)
+<!-- - 📫 How to reach me: [Email](mailto:geeth.gsm@gmail.com) -->
 <!-- - ⚡ Fun fact: [Fun Fact About You] -->
 <!--
 ## 🛠️ Technologies and Tools
