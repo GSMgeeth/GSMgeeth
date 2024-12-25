@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and am always up for a challenge.
+I'm a passionate software engineer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and am always up for a challenge.
 
 <!-- - 🔭 I’m currently working on [Project Name](https://github.com/GSMgeeth/Project) -->
 <!-- - 🌱 I’m currently working with/learning [Java SE/EE, Spring Framework, Maven, Payara, Python, Machine Learning, Data Analysis, Git. Docker, Kafka, Linux, Azure Cloud] -->
