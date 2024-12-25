@@ -36,7 +36,6 @@ I'm a passionate software developer with a keen interest in building scalable an
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/geeth-madhushan)
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/GSMgeeth) -->
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:geeth.gsm@gmail.com)
 
 <!--
