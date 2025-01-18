@@ -25,9 +25,11 @@ I'm a passionate software engineer with a keen interest in building scalable and
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
 -->
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Streak
 
 ![Geeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark)
+
+![Geeth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GSMgeeth&theme=radical)
 
 ## 🏆 GitHub Trophies
 
