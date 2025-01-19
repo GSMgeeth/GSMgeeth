@@ -29,7 +29,7 @@ I'm a passionate software engineer with a keen interest in building scalable and
 
 ![Geeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
-[![Geeth's GitHub Streak](https://github-readme-streak-stats-green-ten.vercel.app?user=GSMgeeth&theme=dark)](https://git.io/streak-stats)
+[![Geeth's GitHub Streak](https://github-readme-streak-stats-green-ten.vercel.app?user=GSMgeeth&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
