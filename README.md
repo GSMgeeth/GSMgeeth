@@ -33,7 +33,7 @@ I'm a passionate software engineer with a keen interest in building scalable and
 
 ## 🏆 GitHub Trophies
 
-![Geeth's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)
+[![Geeth's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
