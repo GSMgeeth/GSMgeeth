@@ -25,15 +25,15 @@ I'm a passionate software engineer with a keen interest in building scalable and
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
 -->
-## 📈 GitHub Stats & Streak
+<!-- ## 📈 GitHub Stats & Streak -->
 
-![Geeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark)
+<!-- ![Geeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark) -->
 
-![Geeth's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=html,css,php)
+<!-- ![Geeth's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=html,css,php) -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 
-[![Geeth's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Geeth's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## 📫 Connect with Me
 
