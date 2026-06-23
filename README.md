@@ -33,16 +33,12 @@ I'm a passionate software engineer with a keen interest in building scalable and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
-## 🏆 GitHub Achievements
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/geeth-madhushan)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:geeth.gsm@gmail.com)
 
----
-
+<!--
 **GSMgeeth/GSMgeeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+-->
