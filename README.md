@@ -6,13 +6,13 @@
 
 I'm a passionate software engineer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and am always up for a challenge.
 
-- 🔭 I'm currently working on innovative projects
-- 🌱 I'm currently learning Java SE/EE, Spring Framework, Maven, Payara, Python, Machine Learning, Data Analysis, Git, Docker, Kafka, Linux, Azure Cloud
-- 👯 I'm looking to collaborate on Open Source Projects
-- 🤔 I'm always open to new ideas and technologies
-- 💬 Ask me about Java, Python, Cloud Architecture, and Software Design
-- 📫 How to reach me: [Email](mailto:geeth.gsm@gmail.com)
-- ⚡ Fun fact: I love exploring new technologies and sharing knowledge with the community
+<!-- - 🔭 I’m currently working on [Project Name](https://github.com/GSMgeeth/Project) -->
+<!-- - 🌱 I’m currently working with/learning [Java SE/EE, Spring Framework, Maven, Payara, Python, Machine Learning, Data Analysis, Git. Docker, Kafka, Linux, Azure Cloud] -->
+<!-- - 👯 I’m looking to collaborate on [Open Source Project] -->
+<!-- - 🤔 I’m looking for help with [Topic or Project] -->
+<!-- - 💬 Ask me about [Technology/Skill] -->
+<!-- - 📫 How to reach me: [Email](mailto:geeth.gsm@gmail.com) -->
+<!-- - ⚡ Fun fact: [Fun Fact About You] -->
 
 ## 🛠️ Technologies and Tools
 
@@ -31,7 +31,11 @@ I'm a passionate software engineer with a keen interest in building scalable and
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=html,css,php)
+
+## 🏆 GitHub Achievements
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
