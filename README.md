@@ -6,10 +6,10 @@
 
 I'm a passionate software engineer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and am always up for a challenge.
 
-<!-- - 🔭 I’m currently working on [Project Name](https://github.com/GSMgeeth/Project) -->
-<!-- - 🌱 I’m currently working with/learning [Java SE/EE, Spring Framework, Maven, Payara, Python, Machine Learning, Data Analysis, Git. Docker, Kafka, Linux, Azure Cloud] -->
-<!-- - 👯 I’m looking to collaborate on [Open Source Project] -->
-<!-- - 🤔 I’m looking for help with [Topic or Project] -->
+<!-- - 🔭 I'm currently working on [Project Name](https://github.com/GSMgeeth/Project) -->
+<!-- - 🌱 I'm currently working with/learning [Java SE/EE, Spring Framework, Maven, Payara, Python, Machine Learning, Data Analysis, Git. Docker, Kafka, Linux, Azure Cloud] -->
+<!-- - 👯 I'm looking to collaborate on [Open Source Project] -->
+<!-- - 🤔 I'm looking for help with [Topic or Project] -->
 <!-- - 💬 Ask me about [Technology/Skill] -->
 <!-- - 📫 How to reach me: [Email](mailto:geeth.gsm@gmail.com) -->
 <!-- - ⚡ Fun fact: [Fun Fact About You] -->
@@ -18,6 +18,8 @@ I'm a passionate software engineer with a keen interest in building scalable and
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![Tauri](https://img.shields.io/badge/-Tauri-333333?style=flat&logo=tauri)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -26,6 +28,7 @@ I'm a passionate software engineer with a keen interest in building scalable and
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
 
 ## 📈 GitHub Stats & Metrics
 
