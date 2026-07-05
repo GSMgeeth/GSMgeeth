@@ -1,7 +1,5 @@
 # Hi there, I'm Geeth Sandaru 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=GSMgeeth&color=blue)
-
 ## 🚀 About Me
 
 I'm a passionate software engineer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and am always up for a challenge.
@@ -29,16 +27,6 @@ I'm a passionate software engineer with a keen interest in building scalable and
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-
-## 📈 GitHub Stats & Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GSMgeeth&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSMgeeth&layout=compact&show_icons=true&theme=dark&count_private=true&hide_border=true&hide=html,css,php)
-
-## 🏆 GitHub Achievements
-
-[![GitHub Profile Trophy](https://github-profile-trophy-xduu.vercel.app/?username=GSMgeeth&theme=darkhub)](https://github.com/GSMgeeth/github-profile-trophy)
 
 ## 📫 Connect with Me
 
